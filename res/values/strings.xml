@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project_practise</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_welcome">Welcome</string>
+    <string name="title_activity_activity_register">Registration</string>
+    <string name="title_activity_activity_tracklist">Who can track you</string>
+    <string name="title_activity_activity_security">Security Settings</string>
+    <string name="title_activity_activity_edit_helper">Edit your Helper profile</string>
+    <string name="title_activity_activity_showfriends">Activity_showfriends</string>
+    <string name="title_activity_activity_show_groups">All Groups</string>
+    <string name="title_activity_activity_group_people">People</string>
+    <string name="title_activity_activity_show_people">Group name</string>
+    <string name="title_activity_activity_search_helper">Search Helper !!!</string>
+    <string name="title_activity_activity_pic_contact">Choose a contact</string>
+
+</resources>

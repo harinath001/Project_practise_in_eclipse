@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/settings_new_group" android:visible="true" android:enabled="true" android:title="Create new Group"></item>
+    <item android:id="@+id/settings_groups_refresh" android:visible="true" android:enabled="true" android:title="Refresh"></item>
+
+</menu>

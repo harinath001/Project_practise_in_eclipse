@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/settings_edit_helper"
+        android:showAsAction="never"
+        android:title="Edit Helper Profile" android:visible="true" android:enabled="true"/>
+    <item android:id="@+id/settings_security" android:visible="true" android:enabled="true" android:title="Security Settings"></item>
+    <item android:id="@+id/settings_tracklist" android:visible="true" android:enabled="true" android:title="Who can track me"></item>
+    <item android:id="@+id/settings_logout" android:title="Logout" android:visible="true" android:enabled="true"></item>
+
+</menu>
